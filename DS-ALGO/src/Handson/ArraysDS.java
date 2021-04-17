@@ -10,6 +10,7 @@ public class ArraysDS {
 		int n = sc.nextInt();
 
 		System.out.println("Enter the terms");
+
 		int arr[] = new int[n];
 		for (int i = 0; i < n; i++) {
 			arr[i] = sc.nextInt();
